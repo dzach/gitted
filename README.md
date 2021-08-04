@@ -1,4 +1,2 @@
 # gitted
-git augmented utilities
-
-More to come ...
+Test ground for github
